@@ -11,8 +11,8 @@
 ## Projetos
 
 - [Buscando um pedido no SAS Saipos e pedindo um motoqueiro no Ifood](https://github.com/pedrooliveirape/saipos_entrega-facil)
-- [Scraping com Python: coleta de dados na web](https://github.com/pedrooliveirape/scraping-com-python)
 - [Formação em Django: CRUD e persistência](https://github.com/pedrooliveirape/alura-space-curso3)
+- [Scraping com Python: coleta de dados na web](https://github.com/pedrooliveirape/scraping-com-python)
 - [Django REST API](https://github.com/pedrooliveirape/escola_api_drf)
 - [Criando modelos com Python e Machine Learning](https://github.com/pedrooliveirape/dio-projeto-covid-machine-learning)
 - [Bootstrap5: criando uma landing page responsiva](https://github.com/pedrooliveirape/meterora_1)
