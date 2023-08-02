@@ -15,7 +15,7 @@
 ## Projetos realizados em treinamentos
 
 - [Scraping com Python: coleta de dados na web - Alura](https://github.com/pedrooliveirape/scraping-com-python)
-- [Formação em Django: CRUD e persistência - Alura](https://github.com/pedrooliveirape/scraping-com-python)
+- [Formação em Django: CRUD e persistência - Alura](https://github.com/pedrooliveirape/alura-space-curso3)
 - [Django REST API - Alura](https://github.com/pedrooliveirape/escola_api_drf)
 - [Criando modelos com Python e Machine Learning - DIO](https://github.com/pedrooliveirape/dio-projeto-covid-machine-learning)
 - [Bootstrap5: criando uma landing page responsiva - Alura](https://github.com/pedrooliveirape/meterora_1)
